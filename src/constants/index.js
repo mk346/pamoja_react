@@ -1,4 +1,4 @@
-import { l6, boy, cctv, couch, favicon, im4, im_17, im_18, img2, l2, man, net, pamojalogo, photo, tvbox, web3, facebook, instagram, linkedin, twitter, send, shield, star, girl } from "../assets";
+import { boy, man, facebook, instagram, linkedin, twitter, send, shield, star, girl } from "../assets";
 
 export const navLinks = [
     {
